@@ -1,0 +1,18 @@
+{
+  "name": "ClassDash",
+  "short_name": "ClassDash",
+  "start_url": "/classdash/",
+  "scope": "/classdash/",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#f8f5ff",
+  "theme_color": "#8877e8",
+  "icons": [
+    {
+      "src": "/classdash/icon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ]
+}
